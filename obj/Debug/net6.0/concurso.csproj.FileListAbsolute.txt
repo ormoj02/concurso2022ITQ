@@ -1,0 +1,15 @@
+C:\Users\ormoj\OneDrive\Escritorio\concurso\bin\Debug\net6.0\concurso.exe
+C:\Users\ormoj\OneDrive\Escritorio\concurso\bin\Debug\net6.0\concurso.deps.json
+C:\Users\ormoj\OneDrive\Escritorio\concurso\bin\Debug\net6.0\concurso.runtimeconfig.json
+C:\Users\ormoj\OneDrive\Escritorio\concurso\bin\Debug\net6.0\concurso.dll
+C:\Users\ormoj\OneDrive\Escritorio\concurso\bin\Debug\net6.0\concurso.pdb
+C:\Users\ormoj\OneDrive\Escritorio\concurso\obj\Debug\net6.0\concurso.csproj.AssemblyReference.cache
+C:\Users\ormoj\OneDrive\Escritorio\concurso\obj\Debug\net6.0\concurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ormoj\OneDrive\Escritorio\concurso\obj\Debug\net6.0\concurso.AssemblyInfoInputs.cache
+C:\Users\ormoj\OneDrive\Escritorio\concurso\obj\Debug\net6.0\concurso.AssemblyInfo.cs
+C:\Users\ormoj\OneDrive\Escritorio\concurso\obj\Debug\net6.0\concurso.csproj.CoreCompileInputs.cache
+C:\Users\ormoj\OneDrive\Escritorio\concurso\obj\Debug\net6.0\concurso.dll
+C:\Users\ormoj\OneDrive\Escritorio\concurso\obj\Debug\net6.0\refint\concurso.dll
+C:\Users\ormoj\OneDrive\Escritorio\concurso\obj\Debug\net6.0\concurso.pdb
+C:\Users\ormoj\OneDrive\Escritorio\concurso\obj\Debug\net6.0\concurso.genruntimeconfig.cache
+C:\Users\ormoj\OneDrive\Escritorio\concurso\obj\Debug\net6.0\ref\concurso.dll
